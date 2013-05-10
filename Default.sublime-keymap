@@ -1,0 +1,4 @@
+[
+  // Quick open Rails views
+  { "keys": ["super+ctrl+o"], "command": "quick_open_rails_views" }
+]
